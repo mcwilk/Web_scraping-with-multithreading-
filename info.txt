@@ -1,0 +1,4 @@
+skrypt.py - główny program
+watki.py - obsługa wątków, pobieranie danych
+testy.py - testy dla programu
+adresy_url.txt - przykładowe adresy URL
